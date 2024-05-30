@@ -1,7 +1,7 @@
 # miniconda-env
-miniconda
+create_miniconda_env.md　を参照のこと
 
-# Jupyter Notebook のカーネルに仮想環境をセットする方法
+# おまけ：Jupyter Notebook のカーネルに仮想環境をセットする方法
 ## 手順
 1. ローカル環境にJupyter Notebookをインストール(既にある人は不要)
 2. 仮想環境に入りipykernelをインストール
