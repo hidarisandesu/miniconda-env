@@ -26,7 +26,17 @@ jupyter kernelspec list
 jupyter kernelspec uninstall [カーネル名]
 ```
 
-# ディレクトリ移動時に仮想環境を自動起動する方法
+以上
+
+# base 環境自動アクティベートの停止
+## 手順
+以下を実行
+```
+conda deactivate
+conda config --set auto_activate_base false
+```
+
+# 任意のディレクトリで任意の仮想環境を自動アクティベートする方法
 ※Linux（Ubuntu）想定
 
 ## 手順
