@@ -36,6 +36,8 @@ conda deactivate
 conda config --set auto_activate_base false
 ```
 
+以上
+
 # 任意のディレクトリで任意の仮想環境を自動アクティベートする方法
 ※Linux（Ubuntu）想定
 
